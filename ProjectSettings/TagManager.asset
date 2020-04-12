@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - background
+  - item
+  - stars1
+  - stars2
+  - Enemy
+  - UI
+  - PostProcessing
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - postProcess
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2126769275
+    locked: 0
+  - name: foreground
+    uniqueID: 3441226745
+    locked: 0
+  - name: PostProcessing
+    uniqueID: 1970118703
+    locked: 0
